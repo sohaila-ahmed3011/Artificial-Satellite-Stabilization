@@ -3,7 +3,7 @@ This repository includes the implementation of PD control to stabilize an artifi
 
 ## Problem
 <p align="center">
-  <img src="data/prob.png" width="80%" />
+  <img src="data/prob.png" width="60%" />
 </p>
 
 ## Results
