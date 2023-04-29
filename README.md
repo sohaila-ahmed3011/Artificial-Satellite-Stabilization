@@ -1,6 +1,11 @@
 # Artificial-Satellite-Stabilization
 This repository includes the implementation of PD control to stabilize an artificial satellite model on a desired orbit.
 
+## Problem
+<p align="center">
+  <img src="data/prob.png" width="80%" />
+</p>
+
 ## Results
 <p align="center">
   <img src="data/radius_res.png" width="48%" />
